@@ -1,3 +1,9 @@
+texlive-base (2012.20120611-5+deb7u1) wheezy-security; urgency=high
+
+  * remove mpost from list of shell_escape_commands (CVE-2016-10243)
+
+ -- Norbert Preining <preining@debian.org>  Tue, 07 Mar 2017 10:54:45 +0900
+
 texlive-base (2012.20120611-5) unstable; urgency=low
 
   * properly purge some conffiles (Closes: #688382)

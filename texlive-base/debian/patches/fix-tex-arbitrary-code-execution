@@ -1,0 +1,14 @@
+---
+ texmf/web2c/texmf.cnf |    1 -
+ 1 file changed, 1 deletion(-)
+
+--- texlive-base-2012.20120611.orig/texmf/web2c/texmf.cnf
++++ texlive-base-2012.20120611/texmf/web2c/texmf.cnf
+@@ -548,7 +548,6 @@
+ bibtex,bibtex8,\
+ kpsewhich,\
+ makeindex,\
+-mpost,\
+ repstopdf,\
+ 
+ % we'd like to allow:
