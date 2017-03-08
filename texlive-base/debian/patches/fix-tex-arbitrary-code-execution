@@ -1,0 +1,10 @@
+--- texlive-base-2014.20141024.orig/texmf-dist/web2c/texmf.cnf
++++ texlive-base-2014.20141024/texmf-dist/web2c/texmf.cnf
+@@ -535,7 +535,6 @@
+ bibtex,bibtex8,\
+ kpsewhich,\
+ makeindex,\
+-mpost,\
+ repstopdf,\
+ 
+ % we'd like to allow:

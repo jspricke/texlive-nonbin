@@ -31,3 +31,4 @@ mptopdf-manpage-fixes
 # fix-listings-bug
 latex-update
 tools-update
+fix-tex-arbitrary-code-execution

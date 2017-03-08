@@ -1,3 +1,9 @@
+texlive-base (2014.20141024-2+deb8u1) jessie-security; urgency=high
+
+  * remove mpost from list of shell_escape_commands (CVE-2016-10243)
+
+ -- Norbert Preining <preining@debian.org>  Mon, 06 Mar 2017 09:00:57 +0900
+
 texlive-base (2014.20141024-2) unstable; urgency=medium
 
   * texlive-xetex (polyglossia) needs texlive-latex-extra (Closes: #767887)
